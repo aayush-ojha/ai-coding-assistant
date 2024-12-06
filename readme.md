@@ -14,7 +14,7 @@ This project is an AI-powered coding assistant that uses OpenAI's GPT-3.5 and Go
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/ai-coding-assistant.git
+    git clone https://github.com/aayush-ojha/ai-coding-assistant.git
     cd ai-coding-assistant
     ```
 
